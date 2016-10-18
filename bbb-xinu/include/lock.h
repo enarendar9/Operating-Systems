@@ -1,0 +1,1 @@
+syscall lock(bool value);
